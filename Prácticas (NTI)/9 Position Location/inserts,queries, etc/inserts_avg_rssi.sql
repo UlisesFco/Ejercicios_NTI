@@ -1,0 +1,13 @@
+insert into taglogs.rssi_averages values (4,'EB03','F4',-93.16,-77.45,-83.22,-42.83,-39.98);
+insert into taglogs.rssi_averages values (5,'EB03','F5',-88.22,-62.05,-73.71,-49.13,-51.32);
+insert into taglogs.rssi_averages values (6,'EB03','F6',-92.61,-72.47,-81.27,-47.70,-51.07);
+insert into taglogs.rssi_averages values (7,'EB03','F7',-90.77,-70.08,-76.76 ,-51.74,-39.13);
+insert into taglogs.rssi_averages values (8,'EB03','F8',-96.38,-66.18,-84.33,-52.04,-35.51);
+insert into taglogs.rssi_averages values (9,'EB03','F9',-99.19,-61.07,-76.69,-40.52,-43.32);
+insert into taglogs.rssi_averages values (10,'EB03','F10',-97.52,-64.56,-74.38,-49.43,-27.75);
+insert into taglogs.rssi_averages values (11,'EB03','F11',-94.7,-67.4,-79.92,-52.36,-43.32);
+insert into taglogs.rssi_averages values (12,'EB03','F12',-95.06,-67.91,-79.54,-38.73,-39.67);
+insert into taglogs.rssi_averages values (13,'EB03','F13',-97.44,-73.21,-79.34,-48.71,-29.91);
+insert into taglogs.rssi_averages values (14,'EB03','F14',-96.33,-72.93,-86.51,-44.73,-39.91);
+insert into taglogs.rssi_averages values (15,'EB03','F15',-94.21,-62.51,-81.78,-41.98,-48.72);
+select * from taglogs.rssi_averages;

@@ -1,0 +1,5 @@
+SELECT node,avg(rssi) as avg_rssi FROM taglogs.tagmessages 
+where taglogs.tagmessages.tag = 'EB03' and 
+	taglogs.tagmessages.date =str_to_date('2019-03-20','%Y-%m-%d') and
+	taglogs.tagmessages.time >= cast(('11:40:00') as time(0))
+group by node

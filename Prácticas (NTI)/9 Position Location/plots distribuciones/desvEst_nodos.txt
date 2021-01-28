@@ -1,0 +1,5 @@
+Desviación estándar por nodo
+sd_0004  sd_0005  sd_0006  sd_0007 sd_0014
+8.450861 13.20173 8.981323 8.698752 8.34611
+
+Desviación estándar global: 2.06395105240135

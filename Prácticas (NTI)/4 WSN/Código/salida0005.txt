@@ -1,0 +1,20 @@
+==================Todas las mac de los radios==================
+0004
+0010
+0008
+0002
+0006
+0005
+==================Todas las mac de las PC==================
+8500
+F111
+==================Todas las rutas del radio local==================
+[{'hops': '1', 'mac': '0004', 'next_hop': '0004'}, {'hops': '2', 'mac': '0010', 'next_hop': '0004'}, {'hops': '2', 'mac': '0008', 'next_hop': '0002'}, {'hops': '1', 'mac': '0002', 'next_hop': '0002'}, {'hops': '1', 'mac': '0006', 'next_hop': '0006'}]
+['0004']
+['0004']
+['0002']
+['0002']
+['0006']
+==================Dibujo del grafo==================
+El número total de nodos en la red es de: 6
+El número total de enlaces entre los nodos es de: 15

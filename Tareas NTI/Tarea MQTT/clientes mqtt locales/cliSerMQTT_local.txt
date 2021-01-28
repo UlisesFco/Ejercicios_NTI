@@ -1,0 +1,8 @@
+Descargar mosquitto (broker de mqtt)
+https://mosquitto.org/download/
+
+Ejemplo sub mqtt
+https://www.albertcoronado.com/2018/07/07/iot-con-mqtt-mosquitto-python/
+
+Ejemplo pub mqtt
+http://www.steves-internet-guide.com/publishing-messages-mqtt-client/

@@ -1,0 +1,37 @@
+De la consola de XCTU
+
+--> Sender
+AT Command Response (API 1)
+
+7E 00 05 88 90 41 43 00 63
+
+Start delimiter: 7E
+Length: 00 05 (5)
+Frame type: 88 (AT Command Response)
+Frame ID: 90 (144)
+AT Command: 41 43 (AC)
+Status: 00 (Status OK)
+Checksum: 63
+
+--> Reciever
+IO Data Sample RX Indicator (API 1)
+
+7E 00 12 92 00 13 A2 00 41 5B 11 34 FF FE C1 01 00 00 08 00 BA 56
+
+Start delimiter: 7E
+Length: 00 12 (18)
+Frame type: 92 (IO Data Sample RX Indicator)
+64-bit source address: 00 13 A2 00 41 5B 11 34
+16-bit source address: FF FE
+Receive options: C1
+Number of samples: 01
+Digital channel mask: 00 00
+Analog channel mask: 08
+DIO3/AD3 analog value: 00 BA (186)
+Checksum: 56
+
+--> lecturas xbee
+b'~\x00\x12\x92\x00\x13\xa2\x00A[\x114\xff\xfe\xc1\x01\x00\x00\x08\x00\xbaV'
+b'~\x00\x12\x92\x00\x13\xa2\x00A[\x114\xff\xfe\xc1\x01\x00\x00\x08\x00\xb7Y'
+
+

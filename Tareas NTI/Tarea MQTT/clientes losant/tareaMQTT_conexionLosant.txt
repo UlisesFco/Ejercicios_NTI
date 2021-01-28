@@ -1,0 +1,14 @@
+Access Key:
+342a22e7-5cf7-44e8-8821-cee9f270260d
+
+Access Secret:
+b1aa40ed5b551dcc5d69615b8a744954375098c732dfdf2dabdf4e237b22081e
+
+Sensor Temperatura:
+5cdc2ba471fa0b0007115188
+
+Sensor Presión:
+5cdc2beaa23e5200092d630c
+
+Sensor Humedad:
+5cdc2bd4af86880008b47951
